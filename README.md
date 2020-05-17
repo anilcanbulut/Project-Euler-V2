@@ -1,5 +1,5 @@
 # Project-Euler-V2
-This is the updated version of the Project Euler.
+This is the updated version of the Project Euler. In the previous repository <a href="https://github.com/anilcanbulut/Project-Euler-18">here</a>, I have given the algorithm that focuses on finding the maximum path in a given triangle. But in this repo, there are some other restrictions which are about prime numbers and reaching the bottom line of the triangle etc. Here what is required below:
 
 You will have an orthogonal triangle input from a file and you need to find the maximum sum of the numbers according to given rules below;
 
