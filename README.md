@@ -16,5 +16,5 @@ According to above rules the maximum sum of the numbers from top to bottom in be
 
 According to assignment in 3 that you implemented what is the maximum sum of below input?
 <p align="center">
-  <img src="images/big-triangle.png" width="50" title="How It Works?">
+  <img src="images/big-triangle.png" width="250" title="How It Works?">
 </p>
