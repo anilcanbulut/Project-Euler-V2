@@ -10,11 +10,11 @@ You will have an orthogonal triangle input from a file and you need to find the 
 5. You have to treat your input as pyramid.
 
 According to above rules the maximum sum of the numbers from top to bottom in below example is 24.
-<p align="center">
+<p align="left">
   <img src="images/small-triangle.png" width="50" title="How It Works?">
 </p>
 
 According to assignment in 3 that you implemented what is the maximum sum of below input?
-<p align="center">
+<p align="left">
   <img src="images/big-triangle.png" width="500" title="How It Works?">
 </p>
