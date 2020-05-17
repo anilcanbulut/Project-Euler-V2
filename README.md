@@ -18,3 +18,4 @@ According to algorithm that you implemented what is the maximum sum of below inp
 <p align="left">
   <img src="images/big-triangle.png" width="500" title="How It Works?">
 </p>
+#If you run the code, you see that the result is 8186 according to the given rules above.
